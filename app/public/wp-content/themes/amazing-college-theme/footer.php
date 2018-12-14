@@ -1,0 +1,1 @@
+<p>Gretting from footer</p>
